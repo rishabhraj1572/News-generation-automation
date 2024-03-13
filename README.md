@@ -13,7 +13,7 @@
    <p><strong><span style="font-size:18px">Usage:</span></strong></p>
 
    <ul>
-        <li><span style="font-size:16px">Add Your <strong>API KEY</strong> at <strong>Line 7</strong> in <a href="https://github.com/rishabhraj1572/News-Generator/blob/main/eng.py"><strong>eng.py</strong></a>. Get it From <a href="https://newsapi.org">HERE</a></span></li>
+        <li><span style="font-size:16px">Add Your <strong>API KEY</strong> at <strong>Line 7</strong> in <a href="https://github.com/rishabhraj1572/News-Generation-automation/blob/main/english.py"><strong>english.py</strong></a>. Get it From <a href="https://newsapi.org">HERE</a></span></li>
     </ul>
 
    <ul>
