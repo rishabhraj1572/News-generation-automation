@@ -141,7 +141,7 @@ def eng():
 # Set the audio of the clip
     clip1 = clip1.set_audio(audio1)
 # Export the clip
-    clip1.write_videofile("/home/runner/work/News-Generator/News-Generator/newseng.mp4", fps=24)
+    clip1.write_videofile("newseng.mp4", fps=24)
             
 
 
@@ -170,7 +170,7 @@ def eng():
             'notifySubscribers': True
         }
 
-        mediaFile = MediaFileUpload('/home/runner/work/News-Generator/News-Generator/newseng.mp4')
+        mediaFile = MediaFileUpload('newseng.mp4')
 
         response_upload = service.videos().insert(
             part='snippet,status',
@@ -203,7 +203,7 @@ def eng():
             'notifySubscribers': True
         }
 
-        mediaFile = MediaFileUpload('/home/runner/work/News-Generator/News-Generator/newseng.mp4')
+        mediaFile = MediaFileUpload('newseng.mp4')
 
         response_upload = service.videos().insert(
             part='snippet,status',
