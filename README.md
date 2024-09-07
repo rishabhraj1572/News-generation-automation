@@ -38,6 +38,6 @@
     ✅<span style="font-size:16px">Uploading generated video to Youtube</span><br />
     ✅<span style="font-size:16px">Automation: Uploading Videos at a regular interval automatically.</p>
 
-   <p><strong><span style="font-size:16px">Note: This project was initially created in 2021. Due to privacy reasons, the previous repository was deleted, and this is a reupload.</span></strong></p>
+   <p><strong><span style="font-size:16px">Note: This project was initially created in 2021. Due to some reason, the previous repository was deleted, and this is a reupload.</span></strong></p>
 
    <strong><span style="font-size:20px">FEEL FREE TO CONTRIBUTE IN THIS PROJECT 😉😉</span></strong>
