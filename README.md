@@ -1,4 +1,5 @@
 <h1>News-Generator</h1>
+
    <ul>
         <li><span style="font-size:16px"><strong>This is a Python Script which generates Top 10 News Headlines using NewsAPI.org Data.</strong></span></li>
         <li><span style="font-size:16px">This Script fetches JSON data from <strong>NewsApi.org</strong> and using JSON data it arranges Top 10 News Headlines from it and stores it in a Text File.</span></li>
